@@ -1,0 +1,928 @@
+AI|Artificial intelligence enables machines to think, learn, and make decisions like humans.
+ML|Machine learning is a subset of AI that allows systems to learn from data automatically.
+Network|Computer networks connect devices using protocols like TCP and IP for communication.
+Database|Databases store and manage structured data efficiently for applications.
+Security|Cybersecurity protects systems, networks, and data from digital attacks.
+Cloud|Cloud computing provides on-demand access to computing resources over the internet.
+OOP|Object oriented programming uses classes, objects, inheritance, and polymorphism.
+Algorithm|An algorithm is a step-by-step procedure to solve a problem efficiently.
+Data|Data is raw information that can be processed into meaningful insights.
+Compiler|A compiler translates source code into machine code for execution.
+Einstein|Albert Einstein was a famous physicist who developed the theory of relativity and the formula E=mc2.
+Newton|Isaac Newton was a scientist and physicist who discovered the laws of universal gravitation and motion.
+Tesla|Nikola Tesla was a brilliant inventor and engineer who pioneered alternating current electricity.
+DaVinci|Leonardo da Vinci was a Renaissance artist and inventor who designed early concepts for tanks and flying machines.
+Curie|Marie Curie was a pioneering scientist who conducted research on radioactivity and won two Nobel Prizes.
+Jobs|Steve Jobs was a famous tech visionary and co-founder of Apple who transformed personal computing.
+Gates|Bill Gates is a famous tech entrepreneur and philanthropist who co-founded Microsoft.
+Mandela|Nelson Mandela was a world leader who fought for peace and equality in South Africa.
+BUET|Bangladesh University of Engineering and Technology (BUET) is the premier public engineering university in Dhaka.
+DU|The University of Dhaka (DU) is the oldest and most prestigious public research university in Bangladesh, known as the Oxford of the East.
+NSU|North South University (NSU) is the first private university in Bangladesh, located in Bashundhara, Dhaka.
+BRAC|BRAC University is a top-ranked private university in Bangladesh focusing on liberal arts and social responsibility.
+RU|The University of Rajshahi (RU) is one of the largest public universities in the country, located in the northern region.
+CU|The University of Chittagong (CU) is a public university famous for its natural beauty and shuttle train culture.
+KUET|Khulna University of Engineering & Technology (KUET) is a leading public engineering university located in the southwest.
+IUT|The Islamic University of Technology (IUT) is an international university in Gazipur, operated by the OIC.
+Apple|The apple is a sweet, crunchy fruit that can be red, green, or yellow.
+Banana|A banana is a long, yellow fruit that is very sweet and rich in potassium.
+Lemon|The lemon is a yellow citrus fruit known for its sour taste and vitamin C.
+Cherry|A cherry is a small, round red fruit that is often sweet but can be tart.
+Grapes|Grapes are small round fruits that grow in clusters and can be green or red.
+Mango|The mango is a tropical yellow fruit known as the king of fruits with a sweet flavor.
+Strawberry|A strawberry is a red heart-shaped fruit that is both sweet and slightly sour.
+Shakib|Shakib Al Hasan is a legendary Bangladeshi cricketer and the best all-rounder in the world.
+Mushfiq|Mushfiqur Rahim is a dependable Bangladeshi batsman and a former captain of the national team.
+Cricket|Cricket is the most popular sport in Bangladesh, and the national team is known as the Tigers.
+History|The history of Bangladesh is rich with the sacrifice of martyrs who fought for the mother tongue in 1952.
+Liberation|The Liberation War of 1971 led to the independence of Bangladesh from Pakistan.
+Internet|The internet is a global network of computers that allows people to share information instantly.
+Smartphone|A smartphone is a handheld personal computer with a mobile operating system and touch screen.
+Python|Python is a high-level programming language known for its simplicity and readability in data science.
+Javascript|Javascript is a versatile programming language primarily used for building interactive web pages.
+SpaceX|SpaceX is a private aerospace manufacturer founded by Elon Musk to reduce space transportation costs.
+NASA|NASA is an independent agency of the US federal government responsible for the civilian space program.
+Football|Football is a world-famous sport where two teams try to kick a ball into the opposing goal.
+Everest|Mount Everest is the highest mountain on Earth, located in the Himalayas between Nepal and China.
+Sundarbans|The Sundarbans is the largest mangrove forest in the world, located in the southwest of Bangladesh.
+CoxsBazar|Cox's Bazar is famous for having the longest natural sandy sea beach in the world.
+TajMahal|The Taj Mahal is an ivory-white marble mausoleum in India, built by Emperor Shah Jahan.
+Pyramid|The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza complex.
+Amazon|The Amazon rainforest is the world's largest tropical rainforest, known for its biodiversity.
+Mars|Mars is the fourth planet from the Sun and is often called the Red Planet due to its appearance.
+Moon|The Moon is Earth's only natural satellite and the fifth largest satellite in the Solar System.
+University|MIT is a world famous university
+Geography|Geographically Bangladesh is beautifull
+Psychology|Psychology of human is very difficult
+WW1|World War I was a global conflict that involved mass violence and trench warfare across Europe.
+WW2|World War II remains the deadliest conflict in history, characterized by intense military violence and atomic bombs.
+Crusades|The Crusades were a series of religious wars in the medieval period involving significant violence between empires.
+Genghis|Genghis Khan led the Mongol invasions, which were known for strategic military violence and vast conquests.
+CivilWar|The American Civil War was a violent internal struggle that ended slavery in the United States.
+Samurai|Samurai warriors in ancient Japan were experts in combat, often engaging in ritualized violence during clan wars.
+Gladiator|Roman gladiators were forced into public displays of violence and combat for entertainment in the Colosseum.
+Vietnam|The Vietnam War was a long, violent struggle between North and South Vietnam involving guerrilla tactics.
+Independence|The American War of Independence involved violent battles against British rule to establish a new nation.
+Viking|Viking raids across Europe were famous for their sudden and organized violence against coastal settlements.
+FrenchRev|The French Revolution was a period of far-reaching social and political upheaval in France.
+RussianRev|The Russian Revolution of 1917 dismantled the Tsarist autocracy and led to the rise of the Soviet Union.
+IndustrialRev|The Industrial Revolution was a transition to new manufacturing processes that changed the world forever.
+AmericanRev|The American Revolution was an ideological and political revolution that led to the independence of the USA.
+DigitalRev|The Digital Revolution is the shift from mechanical technology to digital electronics and the internet.
+GreenRev|The Green Revolution was a period of rapid increase in agricultural production through new technologies.
+Bolivar|Simon Bolivar led a successful revolution against Spanish rule in South America, liberating many nations.
+Gandhi|The Indian Independence Movement was a non-violent revolution against British colonial rule led by Gandhi.
+71Revolution|The 1971 Revolution and Liberation War of Bangladesh resulted in independence and the birth of a new nation.
+ScientificRev|The Scientific Revolution was a series of events that marked the emergence of modern science during the early modern period.
+Politics|Nepotism in politics occurs when leaders appoint family members to high-ranking government positions.
+Hollywood|The term nepo-baby refers to actors and filmmakers who succeeded due to nepotism in the film industry.
+Corporate|In the corporate world, nepotism can lower employee morale when unqualified relatives get promotions.
+Ethical|Many organizations have strict anti-nepotism policies to ensure fairness and prevent favoritism.
+Monarchy|Historical monarchies were built on a form of legalized nepotism where power was passed through bloodlines.
+Fairness|Meritocracy is the opposite of nepotism, where people are rewarded based on talent rather than family ties.
+Bollywood|The debate over nepotism in Bollywood highlights how star kids often get easier access to movie roles.
+Business|Family-owned businesses often struggle with nepotism when choosing the next successor for the company.
+Impact|Systemic nepotism can lead to corruption and hinder the growth of talented individuals without connections.
+Government|Nepotism laws in some countries prevent public officials from hiring relatives in the same department.
+Relativity|Einstein's famous formula E=mc2 relates energy and mass with the speed of light squared.
+Gravity|Newton's law of universal gravitation is given by the formula F=G*(m1*m2)/r2.
+Pythagoras|In a right-angled triangle, the Pythagorean theorem formula is a2+b2=c2.
+Force|Newton's second law of motion states the formula for force is mass times acceleration, F=ma.
+Circle|The area of a circle is calculated using the formula pi times radius squared, A=pi*r2.
+Thermodynamics|The entropy formula by Boltzmann is S=k*logW, a cornerstone of statistical mechanics.
+Chemistry|The ideal gas law formula PV=nRT relates pressure, volume, and temperature of a gas.
+Electricity|Ohm's law provides the formula V=IR, where V is voltage, I is current, and R is resistance.
+Quadratic|The quadratic formula is used to find the roots of a second-degree polynomial equation.
+Kinetics|The formula for kinetic energy is one-half mass times velocity squared, KE=0.5*m*v2.
+Thunderstorm|A thunderstorm is a violent weather condition with heavy rain, lightning, and thunder.
+Cyclone|A cyclone is a large scale air mass that rotates around a strong center of low atmospheric pressure.
+Humidity|Humidity is the concentration of water vapor present in the air, making it feel warm and sticky.
+Blizzard|A blizzard is a severe snowstorm characterized by strong sustained winds and low visibility.
+Tornado|A tornado is a violently rotating column of air that is in contact with both the surface of the earth and a cloud.
+Heatwave|A heatwave is a prolonged period of abnormally hot weather that can be dangerous to health.
+Monsoon|A monsoon is a seasonal change in the direction of the prevailing winds, often bringing heavy rain.
+Forecast|Weather forecast is the application of science and technology to predict the conditions of the atmosphere.
+Rainbow|A rainbow is a meteorological phenomenon caused by reflection, refraction, and dispersion of light in water droplets.
+Drought|A drought is an event of prolonged shortages in the water supply, whether atmospheric, surface water or ground water.
+Pointer|A pointer is a variable that stores the memory address of another variable.
+Recursion|Recursion is a programming technique where a function calls itself to solve a problem.
+Memory|Dynamic memory allocation in C++ uses 'new' and 'delete' operators.
+Frontend|Frontend development focuses on the user interface and experience of a website.
+Backend|Backend development handles the server-side logic and database interactions.
+Linux|Linux is an open-source operating system widely used for servers and development.
+Git|Git is a version control system used to track changes in source code during software development.
+ShaheedMinar|The Central Shaheed Minar is a national monument in Dhaka to commemorate the Language Movement.
+PadmaBridge|The Padma Bridge is the longest multipurpose bridge in Bangladesh, connecting the southwest.
+Sajek|Sajek Valley is an emerging tourist spot in the Chittagong Hill Tracts known for its natural beauty.
+AhsanManzil|Ahsan Manzil was the official residential palace and seat of the Nawab of Dhaka.
+BlackHole|A black hole is a region of spacetime where gravity is so strong that nothing can escape.
+DNA|Deoxyribonucleic acid (DNA) is the molecule that carries genetic instructions for life.
+Quantum|Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms.
+BigBang|The Big Bang theory is the prevailing cosmological model for the observable universe from the earliest known periods.
+Google|Google is a multinational technology company that specializes in Internet-related services.
+Microsoft|Microsoft is a global leader in software, services, devices, and solutions.
+TeslaCar|Tesla is an American electric vehicle and clean energy company led by Elon Musk.
+Netflix|Netflix is a streaming service that offers a wide variety of award-winning TV shows and movies.
+AreaCircle|Area of circle formula is A = PI * r^2.
+SumSeries|The sum of first n natural numbers formula is n*(n+1)/2.
+Probability|Probability of an event is (favorable outcomes) / (total outcomes).
+antu|Antu Debnath is a KUET CSE Student
+MMH|Dr. Md. Mostafa Hafizur Rahman is a Professor at KUET CSE focusing on Parallel Processing and Computer Architecture.
+MAS|Dr. Muhammad Aminul Sayeed is a Professor specialized in Digital Image Processing and Computer Vision.
+KMA|Dr. K. M. Azharul Hasan is a renowned Professor at KUET CSE known for his expertise in Database Systems and Big Data.
+PDM|Dr. Pintu Chandra Shill is a Professor whose research involves Soft Computing and Fuzzy Logic.
+SMA|Dr. Sk. Md. Masudul Ahsan is a Professor at KUET CSE working on Bio-informatics and Machine Learning.
+KA|Dr. Kazi Md. Rokibul Alam is a Professor focusing on Cloud Computing and Software Engineering.
+AAB|Dr. Al-Sakib Khan Pathan is a Professor known for his work in Wireless Networks and Cybersecurity.
+MIM|Dr. Md. Ismail Hossain is an Associate Professor specialized in Natural Language Processing and AI.
+NI|Dr. Nazia Majadi is an Associate Professor at KUET CSE focusing on Human-Computer Interaction.
+MSI|Dr. Md. Shafiul Islam is an Associate Professor whose research includes Wireless Sensor Networks.
+NLP_Lab|The Natural Language Processing Lab at KUET CSE focuses on Bengali language computing and AI.
+CVPR_Lab|Computer Vision and Pattern Recognition Lab works on image analysis and robotic vision systems.
+HighPerformance|The HPC Lab at KUET is dedicated to complex simulations and parallel computing tasks.
+Library|The KUET Central Library offers a vast collection of engineering journals and digital resources.
+Auditorium|The KUET Student Welfare Center (SWC) auditorium is the hub for cultural and academic events.
+2407001|Roll: 2407001 - GPA: 3.94, CGPA: 3.94
+2407002|Roll: 2407002 - GPA: 3.61, CGPA: 3.61
+2407003|Roll: 2407003 - GPA: 3.92, CGPA: 3.92
+2407004|Roll: 2407004 - GPA: 3.14, CGPA: 3.14
+2407005|Roll: 2407005 - GPA: 3.91, CGPA: 3.91
+2407006|Roll: 2407006 - GPA: 3.70, CGPA: 3.70
+2407007|Roll: 2407007 - GPA: 3.22, CGPA: 3.22
+2407008|Roll: 2407008 - GPA: 3.92, CGPA: 3.92
+2407009|Roll: 2407009 - GPA: 3.61, CGPA: 3.61
+2407010|Roll: 2407010 - GPA: 2.99, CGPA: 2.99
+2407011|Roll: 2407011 - GPA: 3.41, CGPA: 3.41
+2407012|Roll: 2407012 - GPA: 3.38, CGPA: 3.38
+2407013|Roll: 2407013 - GPA: 3.38, CGPA: 3.38
+2407014|Roll: 2407014 - GPA: 3.96, CGPA: 3.96
+2407015|Roll: 2407015 - GPA: 3.98, CGPA: 3.98
+2407016|Roll: 2407016 - GPA: 3.59, CGPA: 3.59
+2407017|Roll: 2407017 - GPA: 3.68, CGPA: 3.68
+2407018|Roll: 2407018 - GPA: 3.52, CGPA: 3.52
+2407019|Roll: 2407019 - GPA: 3.40, CGPA: 3.40
+2407020|Roll: 2407020 - GPA: 3.44, CGPA: 3.44
+2407021|Roll: 2407021 - GPA: 3.31, CGPA: 3.31
+2407022|Roll: 2407022 - GPA: 3.42, CGPA: 3.42
+2407023|Roll: 2407023 - GPA: 3.75, CGPA: 3.75
+2407024|Roll: 2407024 - GPA: 3.20, CGPA: 3.20
+2407025|Roll: 2407025 - GPA: 3.98, CGPA: 3.98
+2407026|Roll: 2407026 - GPA: 2.90, CGPA: 2.90
+2407027|Roll: 2407027 - GPA: 3.83, CGPA: 3.83
+2407028|Roll: 2407028 - GPA: 2.90, CGPA: 2.90
+2407029|Roll: 2407029 - GPA: 3.48, CGPA: 3.48
+2407030|Roll: 2407030 - GPA: 3.32, CGPA: 3.32
+2407031|Roll: 2407031 - GPA: 3.50, CGPA: 3.50
+2407032|Roll: 2407032 - GPA: 3.04, CGPA: 3.04
+2407033|Roll: 2407033 - GPA: 3.64, CGPA: 3.64
+2407034|Roll: 2407034 - GPA: 3.92, CGPA: 3.92
+2407035|Roll: 2407035 - GPA: 3.68, CGPA: 3.68
+2407036|Roll: 2407036 - GPA: 3.47, CGPA: 3.47
+2407037|Roll: 2407037 - GPA: 2.69, CGPA: 2.69
+2407038|Roll: 2407038 - GPA: 3.48, CGPA: 3.48
+2407039|Roll: 2407039 - GPA: 3.73, CGPA: 3.73
+2407040|Roll: 2407040 - GPA: 3.99, CGPA: 3.99
+2407041|Roll: 2407041 - GPA: 3.55, CGPA: 3.55
+2407042|Roll: 2407042 - GPA: 3.62, CGPA: 3.62
+2407043|Roll: 2407043 - GPA: 3.00, CGPA: 3.00
+2407044|Roll: 2407044 - GPA: 2.96, CGPA: 2.96
+2407045|Roll: 2407045 - GPA: 3.38, CGPA: 3.38
+2407046|Roll: 2407046 - GPA: 3.48, CGPA: 3.48
+2407047|Roll: 2407047 - GPA: 3.44, CGPA: 3.44
+2407048|Roll: 2407048 - GPA: 3.58, CGPA: 3.58
+2407049|Roll: 2407049 - GPA: 3.21, CGPA: 3.21
+2407050|Roll: 2407050 - GPA: 3.37, CGPA: 3.37
+2407051|Roll: 2407051 - GPA: 3.10, CGPA: 3.10
+2407052|Roll: 2407052 - GPA: 0.00, CGPA: 0.00
+2407053|Roll: 2407053 - GPA: 3.70, CGPA: 3.70
+2407054|Roll: 2407054 - GPA: 3.39, CGPA: 3.39
+2407055|Roll: 2407055 - GPA: 2.90, CGPA: 2.90
+2407056|Roll: 2407056 - GPA: 3.58, CGPA: 3.58
+2407057|Roll: 2407057 - GPA: 3.43, CGPA: 3.43
+2407058|Roll: 2407058 - GPA: 3.35, CGPA: 3.35
+2407059|Roll: 2407059 - GPA: 3.00, CGPA: 3.00
+2407060|Roll: 2407060 - GPA: 2.85, CGPA: 2.85
+2407061|Roll: 2407061 - GPA: 3.37, CGPA: 3.37
+2407062|Roll: 2407062 - GPA: 3.17, CGPA: 3.17
+2407063|Roll: 2407063 - GPA: 2.56, CGPA: 2.56
+2407064|Roll: 2407064 - GPA: 3.09, CGPA: 3.09
+2407065|Roll: 2407065 - GPA: 3.24, CGPA: 3.24
+2407066|Roll: 2407066 - GPA: 3.93, CGPA: 3.93
+2407067|Roll: 2407067 - GPA: 2.83, CGPA: 2.83
+2407068|Roll: 2407068 - GPA: 3.25, CGPA: 3.25
+2407069|Roll: 2407069 - GPA: 3.52, CGPA: 3.52
+2407070|Roll: 2407070 - GPA: 3.27, CGPA: 3.27
+2407071|Roll: 2407071 - GPA: 3.96, CGPA: 3.96
+2407072|Roll: 2407072 - GPA: 3.29, CGPA: 3.29
+2407073|Roll: 2407073 - GPA: 2.89, CGPA: 2.89
+2407074|Roll: 2407074 - GPA: 3.60, CGPA: 3.60
+2407075|Roll: 2407075 - GPA: 3.63, CGPA: 3.63
+2407076|Roll: 2407076 - GPA: 2.80, CGPA: 2.80
+2407077|Roll: 2407077 - GPA: 3.34, CGPA: 3.34
+2407078|Roll: 2407078 - GPA: 2.90, CGPA: 2.90
+2407079|Roll: 2407079 - GPA: 3.53, CGPA: 3.53
+2407080|Roll: 2407080 - GPA: 3.54, CGPA: 3.54
+2407081|Roll: 2407081 - GPA: 2.82, CGPA: 2.82
+2407082|Roll: 2407082 - GPA: 3.54, CGPA: 3.54
+2407083|Roll: 2407083 - GPA: 3.08, CGPA: 3.08
+2407084|Roll: 2407084 - GPA: 3.28, CGPA: 3.28
+2407085|Roll: 2407085 - GPA: 3.66, CGPA: 3.66
+2407086|Roll: 2407086 - GPA: 3.35, CGPA: 3.35
+2407087|Roll: 2407087 - GPA: 3.72, CGPA: 3.72
+2407088|Roll: 2407088 - GPA: 3.67, CGPA: 3.67
+2407089|Roll: 2407089 - GPA: 3.69, CGPA: 3.69
+2407090|Roll: 2407090 - GPA: 3.64, CGPA: 3.64
+2407091|Roll: 2407091 - GPA: 3.32, CGPA: 3.32
+2407092|Roll: 2407092 - GPA: 2.75, CGPA: 2.75
+2407093|Roll: 2407093 - GPA: 3.27, CGPA: 3.27
+2407094|Roll: 2407094 - GPA: 3.43, CGPA: 3.43
+2407095|Roll: 2407095 - GPA: 3.15, CGPA: 3.15
+2407096|Roll: 2407096 - GPA: 3.49, CGPA: 3.49
+2407097|Roll: 2407097 - GPA: 2.84, CGPA: 2.84
+2407098|Roll: 2407098 - GPA: 3.58, CGPA: 3.58
+2407099|Roll: 2407099 - GPA: 3.09, CGPA: 3.09
+2407100|Roll: 2407100 - GPA: 3.87, CGPA: 3.87
+2407101|Roll: 2407101 - GPA: 3.66, CGPA: 3.66
+2407102|Roll: 2407102 - GPA: 3.55, CGPA: 3.55
+2407103|Roll: 2407103 - GPA: 3.37, CGPA: 3.37
+2407104|Roll: 2407104 - GPA: 3.06, CGPA: 3.06
+2407105|Roll: 2407105 - GPA: 3.80, CGPA: 3.80
+2407106|Roll: 2407106 - GPA: 2.82, CGPA: 2.82
+2407107|Roll: 2407107 - GPA: 3.12, CGPA: 3.12
+2407108|Roll: 2407108 - GPA: 3.52, CGPA: 3.52
+2407109|Roll: 2407109 - GPA: 3.06, CGPA: 3.06
+2407110|Roll: 2407110 - GPA: 2.19, CGPA: 2.19
+2407111|Roll: 2407111 - GPA: 3.76, CGPA: 3.76
+2407112|Roll: 2407112 - GPA: 0.00, CGPA: 0.00
+2407113|Roll: 2407113 - GPA: 3.64, CGPA: 3.64
+2407114|Roll: 2407114 - GPA: 3.38, CGPA: 3.38
+2407115|Roll: 2407115 - GPA: 3.14, CGPA: 3.14
+2407116|Roll: 2407116 - GPA: 3.88, CGPA: 3.88
+2407117|Roll: 2407117 - GPA: 3.30, CGPA: 3.30
+2407118|Roll: 2407118 - GPA: 3.21, CGPA: 3.21
+2407119|Roll: 2407119 - GPA: 3.92, CGPA: 3.92
+2407120|Roll: 2407120 - GPA: 3.54, CGPA: 3.54
+2407121|Roll: 2407121 - GPA: 3.17, CGPA: 3.17
+2107112|Roll: 2107112 - GPA: 2.42, CGPA: 2.42
+mou|Jannatul Maoya is a student of Rashahi College Management Department
+Biology|Biology is the natural science that studies life and living organisms.
+Physics|Physics is the study of matter, its motion through space and time, and energy.
+Geology|Geology deals with the solid Earth, the rocks of which it is composed, and its changes.
+Astronomy|Astronomy is the study of celestial objects and phenomena outside Earth's atmosphere.
+Ecology|Ecology is the branch of biology that deals with the relations of organisms to one another.
+Genetics|Genetics is the study of genes, genetic variation, and heredity in organisms.
+Anatomy|Anatomy is the branch of science concerned with the bodily structure of humans and animals.
+Botany|Botany is the scientific study of plants, including their physiology and structure.
+Zoology|Zoology is the branch of biology that studies the animal kingdom.
+Microbiology|Microbiology is the study of microscopic organisms, such as bacteria and viruses.
+Athens|Athens is the capital of Greece and was the center of Ancient Greek civilization.
+Rome|Rome is the capital of Italy and was once the heart of the Roman Empire.
+Cairo|Cairo is the capital of Egypt and is famous for its nearby Giza Pyramids.
+Paris|Paris is the capital of France and is known for the Eiffel Tower and art.
+London|London is the capital of the UK and is famous for Big Ben and the Thames River.
+Tokyo|Tokyo is the capital of Japan and the most populous metropolitan area in the world.
+Beijing|Beijing is the capital of China and home to the Forbidden City.
+Moscow|Moscow is the capital of Russia and home to the Red Square.
+Washington|Washington, D.C. is the capital of the United States.
+Ottawa|Ottawa is the capital of Canada, known for its bilingual culture.
+Sahara|The Sahara is the largest hot desert in the world, covering much of North Africa.
+Gobi|The Gobi Desert is a large desert region in East Asia, covering parts of China and Mongolia.
+Kalahari|The Kalahari Desert is a large semi-arid sandy savanna in Southern Africa.
+Everest|Mount Everest is the highest point on Earth above sea level.
+K2|K2 is the second-highest mountain on Earth, located on the China-Pakistan border.
+Kilimanjaro|Mount Kilimanjaro is a dormant volcano in Tanzania and the highest mountain in Africa.
+Andes|The Andes are the longest continental mountain range in the world, located in South America.
+Alps|The Alps are the highest and most extensive mountain range system in Europe.
+Nile|The Nile is the longest river in the world, flowing through northeastern Africa.
+Ganges|The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh.
+Danube|The Danube is Europe's second-longest river, passing through ten countries.
+Pacific|The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.
+Atlantic|The Atlantic Ocean is the second-largest ocean, covering 20% of Earth's surface.
+IndianOcean|The Indian Ocean is the third-largest of the world's oceanic divisions.
+Arctic|The Arctic Ocean is the smallest and shallowest of the world's five major oceans.
+Shakespeare|William Shakespeare was an English playwright and poet, author of Hamlet and Romeo and Juliet.
+Homer|Homer is the legendary author of the Iliad and the Odyssey.
+Dante|Dante Alighieri was an Italian poet famous for the Divine Comedy.
+Tolstoy|Leo Tolstoy was a Russian writer, author of War and Peace and Anna Karenina.
+Hemingway|Ernest Hemingway was an American novelist known for his economical and understated style.
+Picasso|Pablo Picasso was a Spanish painter and sculptor who co-founded the Cubist movement.
+VanGogh|Vincent van Gogh was a Dutch post-impressionist painter whose work had a far-reaching influence.
+Mozart|Wolfgang Amadeus Mozart was a prolific and influential composer of the Classical period.
+Beethoven|Ludwig van Beethoven was a German composer and pianist during the transition to the Romantic era.
+Mercury|Mercury is the smallest planet in the Solar System and the closest to the Sun.
+Venus|Venus is the second planet from the Sun and is the hottest planet in our solar system.
+Jupiter|Jupiter is the fifth planet from the Sun and the largest in the Solar System.
+Saturn|Saturn is the sixth planet from the Sun, famous for its prominent ring system.
+Uranus|Uranus is the seventh planet from the Sun and has the coldest planetary atmosphere.
+Neptune|Neptune is the eighth and farthest known Solar planet from the Sun.
+Pluto|Pluto is a dwarf planet in the Kuiper belt, once considered the ninth planet.
+MagnaCarta|The Magna Carta was a royal charter of rights agreed to by King John of England in 1215.
+Renaissance|The Renaissance was a fervent period of European cultural, artistic, and political rebirth.
+ColdWar|The Cold War was a period of geopolitical tension between the United States and the Soviet Union.
+SteamEngine|The steam engine was a key invention of the Industrial Revolution.
+PrintingPress|The printing press, invented by Johannes Gutenberg, revolutionized the spread of information.
+Telephone|The telephone was invented by Alexander Graham Bell to transmit sound.
+Lightbulb|Thomas Edison is credited with inventing the first commercially practical incandescent light.
+Internet|The World Wide Web was invented by Tim Berners-Lee in 1989.
+Antibiotics|Alexander Fleming discovered penicillin, the world's first broad-spectrum antibiotic.
+Vaccine|Edward Jenner created the first vaccine, which was for smallpox.
+DNA|James Watson and Francis Crick identified the double-helix structure of DNA.
+Evolution|Charles Darwin proposed the theory of evolution by natural selection.
+BigBen|Big Ben is the nickname for the Great Bell of the striking clock in London.
+Colosseum|The Colosseum is an ancient amphitheatre in the centre of the city of Rome.
+GreatWall|The Great Wall of China is a series of fortifications built to protect Chinese states.
+MachuPicchu|Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru.
+StatueLiberty|The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York.
+EiffelTower|The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris.
+Soccer|Soccer, or football, is a sport played between two teams of eleven players with a spherical ball.
+Basketball|Basketball is a team sport in which two teams compete to shoot a ball through a hoop.
+Tennis|Tennis is a racket sport that can be played individually or between two teams of two.
+Golf|Golf is a club-and-ball sport in which players use various clubs to hit balls into holes.
+Olympics|The Olympic Games are leading international sporting events featuring summer and winter sports.
+Fiction|Fiction is any creative work, chiefly any narrative work, consisting of imaginary people or events.
+Mystery|Mystery is a genre of fiction that involves a mysterious crime or puzzle to be solved.
+Fantasy|Fantasy is a genre of speculative fiction involving magical elements.
+SciFi|Science fiction deals with imaginative and futuristic concepts such as space exploration.
+Philosophy|Philosophy is the study of general and fundamental questions about existence and knowledge.
+Ethics|Ethics is the branch of philosophy that involves systematizing and defending concepts of right and wrong.
+Logic|Logic is the systematic study of the forms of inference and valid reasoning.
+Sociology|Sociology is the study of social life, social change, and the social causes of human behavior.
+Economics|Economics is the social science that studies the production, distribution, and consumption of goods.
+Linguistics|Linguistics is the scientific study of language and its structure.
+Psychiatry|Psychiatry is the medical specialty devoted to the diagnosis and treatment of mental disorders.
+Radiology|Radiology is the medical specialty that uses medical imaging to diagnose and treat diseases.
+Surgery|Surgery is a medical specialty that uses operative manual and instrumental techniques.
+Blockchain|Blockchain is a decentralized, distributed ledger technology.
+Cryptocurrency|Cryptocurrency is a digital or virtual currency that is secured by cryptography.
+Algorithm|An algorithm is a finite sequence of well-defined instructions to solve a problem.
+Database|A database is an organized collection of structured information or data.
+Encryption|Encryption is the process of converting information or data into a code.
+Firewall|A firewall is a network security system that monitors and controls incoming and outgoing traffic.
+Malware|Malware is software that is specifically designed to disrupt, damage, or gain unauthorized access.
+Hardware|Hardware refers to the physical components of a computer system.
+Software|Software is a collection of data or computer instructions that tell the computer how to work.
+Compiler|A compiler is a program that translates computer code from one programming language to another.
+Debugger|A debugger is a computer program used to test and debug other programs.
+IDE|An Integrated Development Environment is a software suite that consolidates basic tools for developers.
+OperatingSystem|An operating system is system software that manages computer hardware and software resources.
+Kernel|The kernel is a computer program at the core of a computer's operating system.
+Protocol|A communication protocol is a system of rules that allow two or more entities to transmit information.
+Latency|Latency is the time it takes for data to travel from one point to another.
+Bandwidth|Bandwidth is the maximum rate of data transfer across a given path.
+API|An Application Programming Interface is a connection between computers or between computer programs.
+Server|A server is a computer program or device that provides a service to another computer program.
+Client|A client is a piece of computer hardware or software that accesses a service made available by a server.
+MMAH|Dr. M. M. A. Hashem is a Professor at KUET CSE specialized in Distributed Evolutionary Computation and Bioinformatics.
+Dhaka|Dhaka is the capital of Bangladesh and a mega-city known for its rich history and rickshaws.
+Khulna|Khulna is the third-largest city in Bangladesh, known as the gateway to the Sundarbans.
+Sylhet|Sylhet is famous for its tea gardens, shrines, and beautiful natural landscapes.
+Rajshahi|Rajshahi is known as the Silk City and is famous for high-quality mangoes.
+Barishal|Barishal is the Venice of the East, famous for its floating guava markets and rivers.
+Rangpur|Rangpur is a major city in the north, known for tobacco and hand-woven carpets.
+Mymensingh|Mymensingh is a historic city on the banks of the Brahmaputra River.
+Comilla|Comilla is famous for its Shalban Vihara and delicious Rasmalai.
+Bogura|Bogura is an ancient city known for Mahasthangarh and its world-famous yogurt.
+Gazipur|Gazipur is an industrial hub and home to the Islamic University of Technology.
+Feni|Feni is a central district connecting Dhaka and Chattogram.
+Noakhali|Noakhali is a coastal district known for its unique dialect and resilient people.
+Pabna|Pabna is home to the Mental Hospital and the Rooppur Nuclear Power Plant.
+Kushtia|Kushtia is the cultural capital, home to Lalon Shah's shrine and Rabindranath's Kuthibari.
+Jessore|Jessore is known for being the first district of Bangladesh and its date juice.
+Satkhira|Satkhira is a coastal district famous for shrimp farming and honey from the Sundarbans.
+Bagerhat|Bagerhat is a UNESCO site famous for the Sixty Dome Mosque (Shat Gombuj Masjid).
+Bhola|Bhola is the largest island district of Bangladesh, located at the mouth of the Meghna.
+Dinajpur|Dinajpur is famous for the Kantajew Temple and premium litchis.
+Tangail|Tangail is world-renowned for its traditional handloom TANT sarees.
+Narayanganj|Narayanganj is known as the Dundee of the East due to its jute industry.
+Chandpur|Chandpur is famous as the city of Hilsa fish, located at the confluence of three rivers.
+Hydrogen|Hydrogen is the chemical element with the symbol H and atomic number 1.
+Helium|Helium is a colorless, odorless, tasteless, non-toxic, inert, monatomic gas.
+Lithium|Lithium is a soft, silvery-white alkali metal used in rechargeable batteries.
+Beryllium|Beryllium is a steel-gray, strong, lightweight and brittle alkaline earth metal.
+Boron|Boron is a metalloid element found in the earth's crust as borates.
+Carbon|Carbon is the backbone of life on Earth and exists as diamond and graphite.
+Nitrogen|Nitrogen is a naturally occurring element that is essential for growth and reproduction in both plants and animals.
+Oxygen|Oxygen is a highly reactive nonmetal and an oxidizing agent that forms oxides with most elements.
+Fluorine|Fluorine is the most electronegative element and is extremely reactive.
+Neon|Neon is a noble gas that emits a distinct reddish-orange glow when used in high-voltage discharge lamps.
+Sodium|Sodium is a soft, silvery-white, highly reactive metal and is a member of the alkali metals.
+Magnesium|Magnesium is a shiny gray solid which bears a close physical resemblance to the other five elements in the second column.
+Aluminum|Aluminum is a silvery-white, lightweight metal that is resistant to corrosion.
+Silicon|Silicon is a hard, brittle crystalline solid and a semiconductor used in electronics.
+Phosphorus|Phosphorus is a multivalent nonmetal of the nitrogen group found in nature in several allotropic forms.
+Sulfur|Sulfur is a bright yellow, crystalline solid at room temperature.
+Chlorine|Chlorine is a yellow-green gas used as a disinfectant in water treatment.
+Argon|Argon is a noble gas and is the third-most abundant gas in Earth's atmosphere.
+Potassium|Potassium is a soft silvery-white metal that reacts violently with water.
+Calcium|Calcium is an alkaline earth metal that is essential for living organisms.
+Iron|Iron is a metal that belongs to the first transition series and group 8 of the periodic table.
+Gold|Gold is a dense, soft, malleable, and ductile metal with a bright yellow color.
+Silver|Silver is a soft, white, lustrous transition metal with the highest electrical conductivity.
+Copper|Copper is a soft, malleable, and ductile metal with very high thermal and electrical conductivity.
+Zinc|Zinc is a slightly brittle metal at room temperature and has a blue-silvery appearance.
+Dubai|Dubai is known for luxury shopping, ultramodern architecture and a lively nightlife scene.
+BurjKhalifa|The Burj Khalifa is the tallest building in the world, located in Dubai.
+Petra|Petra is a famous archaeological site in Jordan's southwestern desert.
+Santorini|Santorini is one of the Cyclades islands in the Aegean Sea, known for white buildings.
+Venice|Venice is built on more than 100 small islands in a lagoon in the Adriatic Sea.
+Istanbul|Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait.
+Seoul|Seoul, the capital of South Korea, is a huge metropolis where modern skyscrapers meet traditional palaces.
+Bangkok|Bangkok is the capital of Thailand and is known for ornate shrines and vibrant street life.
+Sydney|Sydney is the largest city in Australia, famous for its harbourfront Sydney Opera House.
+Bali|Bali is an Indonesian island known for its forested volcanic mountains and iconic rice paddies.
+Singapore|Singapore is a sunny, tropical island in South-east Asia, off the southern tip of the Malay Peninsula.
+Amsterdam|Amsterdam is the Netherlands’ capital, known for its artistic heritage and elaborate canal system.
+Vienna|Vienna is the capital of Austria, lying on the Danube River and known for its musical legacy.
+Prague|Prague is the capital city of the Czech Republic, bisected by the Vltava River.
+Barcelona|Barcelona is the cosmopolitan capital of Spain’s Catalonia region, known for its art and architecture.
+Docker|Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
+Kubernetes|Kubernetes is an open-source container-orchestration system for automating software deployment.
+Rust|Rust is a multi-paradigm, general-purpose programming language designed for performance and safety.
+Swift|Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple.
+Kotlin|Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference.
+TypeScript|TypeScript is a programming language developed and maintained by Microsoft as a superset of JavaScript.
+Django|Django is a high-level Python web framework that encourages rapid development and clean design.
+React|React is a free and open-source front-end JavaScript library for building user interfaces.
+NodeJS|Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside a web browser.
+SQL|Structured Query Language is a domain-specific language used in programming and designed for managing data in an RDBMS.
+MongoDB|MongoDB is a source-available cross-platform document-oriented database program.
+Redis|Redis is an in-memory data structure store, used as a distributed, in-memory key–value database.
+Hadoop|Apache Hadoop is a collection of open-source software utilities that use a network of many computers to solve problems involving massive amounts of data.
+Cybernetics|Cybernetics is a transdisciplinary approach for exploring regulatory systems—their structures, constraints, and possibilities.
+Tolkien|J.R.R. Tolkien was an English writer and author of the high fantasy works The Hobbit and The Lord of the Rings.
+Rowling|J.K. Rowling is a British author, best known for writing the Harry Potter fantasy series.
+GeorgeMartin|George R.R. Martin is an American novelist and author of the epic fantasy series A Song of Ice and Fire.
+GeorgeOrwell|George Orwell was an English novelist famous for 1984 and Animal Farm.
+AgathaChristie|Agatha Christie was an English writer known for her 66 detective novels and short story collections.
+MarkTwain|Mark Twain was an American writer and humorist who wrote The Adventures of Tom Sawyer.
+CharlesDickens|Charles Dickens was an English writer who created some of the world's best-known fictional characters like Oliver Twist.
+c++ oop programming|C++ is a high-level language supporting Object-Oriented Programming (OOP).
+inheritance polymorphism encapsulation|These are the core pillars of Object-Oriented Programming.
+bangladesh dhaka khulna|Dhaka is the capital of Bangladesh, and Khulna is known for the Sundarbans.
+weather climate temperature|Weather refers to short-term conditions, while climate is long-term.
+space nasa planets mars|NASA's Perseverance rover is currently exploring the surface of Mars.
+computer hardware cpu gpu|The CPU is the brain of the computer, while the GPU handles graphics.
+physics einstein relativity|Albert Einstein developed the theory of relativity in the early 20th century.
+programming python java script|Python is famous for data science, while JavaScript powers the web.
+sports cricket football worldcup|Cricket is highly popular in South Asia, especially in Bangladesh.
+artificial intelligence machine learning|AI and Machine Learning are transforming modern technology.
+google search engine algorithm|Google uses complex algorithms to rank web pages in search results.
+history world war independence|Bangladesh gained independence in 1971 after a nine-month war.
+health nutrition vitamins|A balanced diet rich in vitamins is essential for a healthy life.
+internet security firewall virus|Firewalls help protect computers from unauthorized internet access.
+ocean water blue biology|The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.
+kuet khulna engineering university|KUET is a top-tier engineering university in Bangladesh located in Khulna.
+rabindranath tagore gitanjali poetry|Rabindranath Tagore was the first Asian to win the Nobel Prize in Literature.
+solar energy renewable sustainability|Solar panels convert sunlight into electricity using photovoltaic cells.
+inflation gdp economy finance|Inflation represents the rate at which the general level of prices for goods is rising.
+shakespeare hamlet literature drama|William Shakespeare wrote Hamlet, one of the most powerful tragedies in English.
+photosynthesis plants biology chlorophyll|Plants use photosynthesis to convert light energy into chemical energy.
+periodic table chemistry elements oxygen|The periodic table organizes all known chemical elements by atomic number.
+blockchain bitcoin cryptocurrency mining|Blockchain is a decentralized ledger technology that powers cryptocurrencies.
+everest mountain geography nepal|Mount Everest is Earth's highest mountain above sea level, located in the Himalayas.
+calculus mathematics derivative integral|Calculus is the mathematical study of continuous change.
+socrates philosophy ethics logic|Socrates was a classical Greek philosopher credited as a founder of Western philosophy.
+amazon rainforest environment oxygen|The Amazon rainforest is the world's largest tropical rainforest and a vital carbon sink.
+dna genetics biology molecule|DNA contains the instructions an organism needs to develop, live, and reproduce.
+oscar movies hollywood cinema|The Academy Awards, or Oscars, recognize excellence in the film industry.
+tourism landmark taj mahal india|The Taj Mahal is an ivory-white marble mausoleum on the bank of the river Yamuna.
+recycling plastic waste pollution|Recycling helps reduce the amount of waste sent to landfills and incinerators.
+brain neurons psychology intelligence|The human brain contains approximately 86 billion neurons that process information.
+sundarbans mangrove forest tigers|The Sundarbans is the largest mangrove forest in the world, home to Royal Bengal Tigers.
+dhaka metro rail transport city|Dhaka Metro Rail is a rapid transit system serving the capital of Bangladesh.
+big bang theory universe astronomy|The Big Bang is the leading explanation for how the universe began.
+black hole gravity light physics|A black hole is a region of spacetime where gravity is so strong that nothing can escape.
+coffee caffeine beverage stimulant|Coffee is one of the most popular drinks globally, known for its caffeine content.
+internet of things iot smart home|IoT refers to the network of physical objects embedded with sensors and software.
+cybersecurity phishing hacking protection|Cybersecurity is the practice of protecting systems and networks from digital attacks.
+olympics sports gold medal athlete|The Olympic Games are the world's leading international sporting event.
+AI|Artificial intelligence enables machines to simulate human intelligence, learn from data, and make decisions.
+Machine Learning|Machine learning is a subset of AI where systems learn from data to improve without being explicitly programmed.
+Deep Learning|Deep learning uses neural networks with many layers to recognize patterns in images, audio, and text.
+Neural Network|A neural network is a computing system inspired by biological neurons that processes information in layers.
+Natural Language Processing|NLP enables computers to understand, interpret, and generate human language naturally.
+Computer Vision|Computer vision allows machines to interpret and understand visual information from images and videos.
+Robotics|Robotics combines engineering and computer science to design machines that can perform tasks autonomously.
+Data Science|Data science uses statistics, programming, and domain knowledge to extract insights from large datasets.
+Big Data|Big data refers to extremely large datasets that cannot be processed using traditional database tools.
+Cloud Computing|Cloud computing delivers computing services like storage, servers, and software over the internet.
+Internet of Things|IoT connects physical devices to the internet allowing them to collect and share data automatically.
+Blockchain|Blockchain is a decentralized digital ledger that records transactions across many computers securely.
+Cybersecurity|Cybersecurity protects computer systems, networks, and data from digital attacks and unauthorized access.
+Operating System|An operating system manages hardware resources and provides services for computer programs to run.
+Database|A database is an organized collection of structured data stored and accessed electronically from a computer system.
+Algorithm|An algorithm is a step-by-step procedure or formula for solving a problem or accomplishing a task.
+Data Structure|A data structure is a way of organizing and storing data so it can be accessed and modified efficiently.
+Compiler|A compiler translates high-level source code written by programmers into machine code the computer can execute.
+Interpreter|An interpreter executes source code line by line without converting it to machine code first.
+Linux|Linux is a free, open-source operating system kernel used widely in servers, Android, and embedded systems.
+Windows|Windows is a series of operating systems developed by Microsoft, widely used on personal computers worldwide.
+Python|Python is a high-level, interpreted programming language known for simplicity, readability, and wide library support.
+Java|Java is a platform-independent, object-oriented programming language widely used in enterprise and Android development.
+C|C is a general-purpose, low-level programming language that forms the foundation for many modern languages.
+CPlusPlus|C++ is an extension of C that adds object-oriented features, templates, and the Standard Template Library.
+JavaScript|JavaScript is a lightweight scripting language used to create interactive effects inside web browsers.
+HTML|HTML is the standard markup language used to create the structure and content of web pages.
+CSS|CSS is a style sheet language used to describe the presentation and layout of HTML documents.
+PHP|PHP is a server-side scripting language designed for web development and embedded into HTML pages.
+SQL|SQL is a domain-specific language for managing and querying relational databases using structured commands.
+MongoDB|MongoDB is a NoSQL database that stores data in flexible JSON-like documents instead of rows and columns.
+MySQL|MySQL is an open-source relational database management system based on structured query language SQL.
+PostgreSQL|PostgreSQL is a powerful open-source relational database system with strong support for SQL and JSON.
+React|React is a JavaScript library developed by Facebook for building fast and interactive user interfaces.
+Angular|Angular is a TypeScript-based web framework developed by Google for building single-page applications.
+VueJS|Vue.js is a progressive JavaScript framework for building user interfaces and single-page applications.
+NodeJS|Node.js is a JavaScript runtime built on Chrome V8 engine that allows server-side JavaScript execution.
+Django|Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
+Flask|Flask is a lightweight Python web framework that provides essential tools for building web applications.
+Docker|Docker is a platform that packages applications into containers for consistent deployment across environments.
+Kubernetes|Kubernetes is an open-source container orchestration system for automating deployment and scaling of applications.
+Git|Git is a distributed version control system that tracks changes in source code during software development.
+GitHub|GitHub is a cloud-based hosting service that lets developers store and manage their Git repositories online.
+REST API|REST API is an architectural style for designing networked applications using stateless HTTP requests.
+GraphQL|GraphQL is a query language for APIs and a runtime for executing those queries developed by Facebook.
+TCP IP|TCP/IP is the fundamental communication protocol suite that governs how data is transmitted over the internet.
+HTTP|HTTP is the foundation of data communication on the World Wide Web using request-response protocol.
+DNS|DNS translates human-readable domain names like google.com into machine-readable IP addresses.
+Firewall|A firewall is a network security device that monitors and filters incoming and outgoing network traffic.
+VPN|A VPN creates an encrypted tunnel between a user and a network to protect privacy and bypass restrictions.
+Encryption|Encryption converts readable data into an unreadable format to prevent unauthorized access during transmission.
+SSL TLS|SSL/TLS are cryptographic protocols that provide secure communication over a computer network like the internet.
+Sorting Algorithm|Sorting algorithms arrange data in a specific order, such as bubble sort, merge sort, and quicksort.
+Binary Search|Binary search finds a target value in a sorted array by repeatedly halving the search space.
+Linked List|A linked list is a linear data structure where elements are stored in nodes connected by pointers.
+Stack|A stack is a linear data structure that follows the Last In First Out LIFO principle for data access.
+Queue|A queue is a linear data structure that follows the First In First Out FIFO principle for data access.
+Tree|A tree is a hierarchical data structure consisting of nodes with a root and subtrees of children.
+Graph|A graph is a non-linear data structure consisting of vertices connected by edges representing relationships.
+Hash Table|A hash table stores key-value pairs using a hash function for fast average constant time lookup.
+Dynamic Programming|Dynamic programming solves complex problems by breaking them into overlapping subproblems and caching results.
+Recursion|Recursion is a programming technique where a function calls itself to solve smaller instances of a problem.
+Object Oriented Programming|OOP is a programming paradigm organizing code into objects that contain data and functions together.
+Encapsulation|Encapsulation bundles data and methods into a class and restricts direct access to internal components.
+Inheritance|Inheritance allows a class to acquire properties and behaviors of another class promoting code reuse.
+Polymorphism|Polymorphism allows objects of different classes to be treated as objects of a common base class.
+Abstraction|Abstraction hides complex implementation details and shows only the essential features to the user.
+Class|A class is a blueprint or template that defines the properties and behaviors of objects in OOP.
+Object|An object is an instance of a class that contains actual values for the attributes defined in the class.
+Constructor|A constructor is a special method that initializes an object when it is created from a class.
+Destructor|A destructor is a method called automatically when an object is destroyed to free allocated resources.
+Virtual Function|A virtual function in C++ enables runtime polymorphism by allowing derived classes to override base behavior.
+Template|A template in C++ allows writing generic functions and classes that work with any data type.
+STL|The Standard Template Library provides generic classes and functions like vectors, maps, and algorithms in C++.
+Exception Handling|Exception handling manages runtime errors using try, catch, and throw blocks to maintain program stability.
+Pointer|A pointer is a variable that stores the memory address of another variable in low-level programming.
+Memory Management|Memory management involves allocating and freeing memory during program execution to avoid leaks and crashes.
+KUET|Khulna University of Engineering and Technology is a prestigious public engineering university in Khulna, Bangladesh.
+Bangladesh|Bangladesh is a South Asian country with a population of over 170 million people, capital Dhaka.
+Dhaka|Dhaka is the capital and largest city of Bangladesh, one of the most densely populated cities in the world.
+Khulna|Khulna is the third largest city in Bangladesh and home to KUET, located in the southwest region.
+Shakib|Shakib Al Hasan is a legendary Bangladeshi cricketer, considered one of the greatest all-rounders in cricket history.
+Tamim|Tamim Iqbal is a celebrated Bangladeshi cricketer known as one of the finest opening batsmen in ODI cricket.
+Mushfiqur|Mushfiqur Rahim is a veteran Bangladeshi cricketer and wicketkeeper who holds multiple batting records for Bangladesh.
+Mashrafe|Mashrafe Bin Mortaza is a former Bangladeshi cricket captain known for his leadership and fast bowling skills.
+Cricket|Cricket is a bat-and-ball sport played between two teams of eleven players on a circular field.
+Football|Football is the world's most popular sport played by two teams of eleven trying to score goals.
+Messi|Lionel Messi is an Argentine footballer widely regarded as one of the greatest players of all time.
+Ronaldo|Cristiano Ronaldo is a Portuguese footballer who holds records for goals in Champions League and international football.
+Neymar|Neymar Jr is a Brazilian footballer known for his dribbling skill, creativity, and flair in attack.
+Tennis|Tennis is a sport played on a rectangular court where players use rackets to hit a ball over a net.
+Djokovic|Novak Djokovic is a Serbian tennis player who holds the record for most Grand Slam titles in men's singles.
+Federer|Roger Federer is a Swiss tennis legend widely considered among the greatest tennis players of all time.
+Nadal|Rafael Nadal is a Spanish tennis player famous for his dominance on clay courts and record French Open titles.
+Basketball|Basketball is a team sport where two teams of five players score points by throwing a ball through a hoop.
+LeBron|LeBron James is an American basketball player considered one of the greatest NBA players of all time.
+Olympics|The Olympics are international multi-sport events held every four years bringing together athletes worldwide.
+Einstein|Albert Einstein was a German-born physicist who developed the theory of relativity and the equation E equals mc squared.
+Newton|Isaac Newton was an English mathematician and physicist who formulated the laws of motion and universal gravitation.
+Darwin|Charles Darwin was an English naturalist who proposed the theory of evolution through natural selection.
+Tesla|Nikola Tesla was a Serbian-American inventor known for his contributions to the development of alternating current electricity.
+Edison|Thomas Edison was an American inventor who developed the phonograph, motion picture camera, and practical electric bulb.
+Hawking|Stephen Hawking was a British theoretical physicist known for his work on black holes and the universe's origins.
+Marie Curie|Marie Curie was a Polish-French physicist and chemist who discovered radioactivity and won two Nobel Prizes.
+Sun|The Sun is the star at the center of our solar system providing light and energy to all life on Earth.
+Moon|The Moon is Earth's only natural satellite that orbits the planet and influences tides through gravity.
+Mars|Mars is the fourth planet from the Sun, known as the Red Planet and the primary target for future human exploration.
+Jupiter|Jupiter is the largest planet in the solar system with a Great Red Spot storm lasting hundreds of years.
+Black Hole|A black hole is a region in space where gravity is so strong that nothing, not even light, can escape.
+Galaxy|A galaxy is a massive system of stars, stellar remnants, gas, dust, and dark matter held together by gravity.
+Milky Way|The Milky Way is the galaxy containing our solar system, visible as a band of light across the night sky.
+Photosynthesis|Photosynthesis is the process by which green plants convert sunlight, water, and carbon dioxide into glucose.
+DNA|DNA is the molecule that carries the genetic instructions for the development and reproduction of all living organisms.
+Evolution|Evolution is the process of change in inherited characteristics of biological populations over successive generations.
+Cell|A cell is the smallest structural and functional unit of all living organisms, classified as prokaryotic or eukaryotic.
+Virus|A virus is a microscopic infectious agent that replicates inside living cells of organisms causing disease.
+Bacteria|Bacteria are single-celled microorganisms found in every habitat on Earth including soil, water, and living organisms.
+Vaccine|A vaccine stimulates the immune system to produce antibodies providing protection against specific infectious diseases.
+Climate Change|Climate change refers to long-term shifts in global temperatures and weather patterns largely caused by human activity.
+Renewable Energy|Renewable energy comes from naturally replenished sources like sunlight, wind, rain, and geothermal heat.
+Solar Energy|Solar energy is radiant light and heat from the Sun harnessed using technologies like photovoltaic solar panels.
+Wind Energy|Wind energy converts kinetic energy from wind into electricity using large turbines on land or offshore.
+Electric Vehicle|Electric vehicles are powered entirely or partially by electric motors drawing energy from rechargeable batteries.
+Quantum Computing|Quantum computing uses quantum mechanical phenomena to process information exponentially faster than classical computers.
+Augmented Reality|AR overlays digital information and virtual objects onto the real world viewed through a device or glasses.
+Virtual Reality|VR creates a fully immersive simulated experience using headsets that replace the user's real-world view.
+5G|5G is the fifth generation of wireless network technology offering faster speeds and lower latency than 4G.
+Metaverse|The metaverse is a collective virtual shared space created by the convergence of physical and digital reality.
+ChatGPT|ChatGPT is an AI language model developed by OpenAI that generates human-like text responses from prompts.
+Gemini|Gemini is Google's family of multimodal AI models capable of understanding text, images, audio, and video.
+Claude|Claude is an AI assistant developed by Anthropic designed to be helpful, harmless, and honest in responses.
+OpenAI|OpenAI is an American AI research company known for developing GPT models and the ChatGPT assistant.
+Anthropic|Anthropic is an AI safety company that developed the Claude family of AI assistants focused on safe AI.
+Google|Google is an American multinational technology company specializing in internet search, advertising, and cloud computing.
+Microsoft|Microsoft is an American technology company that develops Windows, Office, Azure cloud, and the Xbox gaming platform.
+Apple|Apple is an American technology company known for the iPhone, Mac computers, iPad, and the iOS ecosystem.
+Amazon|Amazon is an American multinational company specializing in e-commerce, cloud computing through AWS, and digital streaming.
+Meta|Meta is the parent company of Facebook, Instagram, and WhatsApp focused on social media and the metaverse.
+Tesla Company|Tesla is an American electric vehicle and clean energy company founded by Elon Musk in Silicon Valley.
+SpaceX|SpaceX is an aerospace company founded by Elon Musk focused on reusable rockets and Mars colonization missions.
+Elon Musk|Elon Musk is an entrepreneur and business magnate behind Tesla, SpaceX, and Neuralink known for ambitious visions.
+Bill Gates|Bill Gates co-founded Microsoft and is a philanthropist focused on global health and poverty reduction efforts.
+Mark Zuckerberg|Mark Zuckerberg is the co-founder and CEO of Meta, the company that owns Facebook, Instagram, and WhatsApp.
+Steve Jobs|Steve Jobs was the co-founder of Apple known for revolutionary products like the iPhone, iPod, and Macintosh.
+Alan Turing|Alan Turing was a British mathematician and computer scientist considered the father of theoretical computer science.
+Grace Hopper|Grace Hopper was an American computer scientist who developed the first compiler and influenced programming languages.
+Linus Torvalds|Linus Torvalds is a Finnish software engineer who created the Linux kernel and the Git version control system.
+Tim Berners-Lee|Tim Berners-Lee is a British computer scientist who invented the World Wide Web and the HTTP protocol.
+World War 1|World War I was a global conflict from 1914 to 1918 centered in Europe involving major world powers.
+World War 2|World War II was a global conflict from 1939 to 1945 that resulted in the deaths of over 70 million people.
+Independence|Bangladesh gained independence on March 26, 1971 after a liberation war against Pakistani forces with Indian support.
+Liberation War|The Bangladesh Liberation War of 1971 resulted in the creation of Bangladesh after nine months of armed conflict.
+Tagore|Rabindranath Tagore was a Bengali polymath who wrote the national anthems of Bangladesh and India and won the Nobel Prize.
+Nazrul|Kazi Nazrul Islam is the national poet of Bangladesh known as the Rebel Poet for his revolutionary literary works.
+Sundarbans|The Sundarbans is the world's largest mangrove forest located in the delta of Bangladesh and West Bengal India.
+Padma Bridge|The Padma Bridge is the longest bridge in Bangladesh spanning 6.15 km across the Padma River opened in 2022.
+Cox's Bazar|Cox's Bazar is the world's longest natural sea beach located in the Chittagong Division of Bangladesh.
+Mathematics|Mathematics is the abstract science of number, quantity, and space applied in physics, engineering, and computing.
+Calculus|Calculus is a branch of mathematics studying continuous change through derivatives and integrals.
+Statistics|Statistics is the discipline that concerns the collection, analysis, interpretation, and presentation of data.
+Linear Algebra|Linear algebra studies vectors, matrices, and linear transformations used extensively in machine learning and graphics.
+Probability|Probability is the branch of mathematics concerned with the likelihood of events occurring in an experiment.
+Physics|Physics is the natural science that studies matter, energy, space, time, and the fundamental forces of the universe.
+Chemistry|Chemistry is the branch of science that studies the properties, composition, and reactions of matter and substances.
+Biology|Biology is the natural science that studies life and living organisms including their structure, function, and evolution.
+Geography|Geography is the study of Earth's landscapes, environments, and the relationship between people and their environment.
+History|History is the study of the past through written documents, artifacts, and oral traditions of human civilizations.
+Economics|Economics is the social science studying how individuals, firms, and governments allocate scarce resources.
+Psychology|Psychology is the scientific study of the mind, behavior, emotions, and mental processes of individuals.
+Philosophy|Philosophy is the study of fundamental questions about existence, knowledge, ethics, reason, and the nature of reality.
+Literature|Literature encompasses written works including novels, poetry, drama, and non-fiction with artistic merit.
+Music|Music is an art form combining vocal and instrumental sounds to produce beauty of form, harmony, and expression.
+Beethoven|Ludwig van Beethoven was a German composer who created masterpieces including nine symphonies despite losing his hearing.
+Mozart|Wolfgang Amadeus Mozart was an Austrian composer who wrote over 600 works and is considered a musical genius.
+Art|Art is the expression of human creativity and imagination through painting, sculpture, music, literature, and other forms.
+Leonardo Da Vinci|Leonardo da Vinci was an Italian Renaissance artist and scientist who painted the Mona Lisa and The Last Supper.
+Picasso|Pablo Picasso was a Spanish artist co-founder of Cubism known for Guernica and Les Demoiselles d'Avignon.
+Architecture|Architecture is the art and science of designing and constructing buildings and other physical structures.
+Pyramid|The Pyramids of Giza are ancient Egyptian monumental tombs built for pharaohs around 2560 BCE.
+Eiffel Tower|The Eiffel Tower is an iron lattice tower built in Paris in 1889 and is one of the most visited monuments worldwide.
+Great Wall|The Great Wall of China is a series of fortifications built across northern China spanning thousands of kilometers.
+Taj Mahal|The Taj Mahal is a white marble mausoleum in Agra India built by Mughal emperor Shah Jahan in memory of his wife.
+Colosseum|The Colosseum is an ancient Roman amphitheater in Rome Italy capable of holding up to 80000 spectators.
+Nutrition|Nutrition is the science of how food affects the body including the intake and assimilation of nutrients.
+Exercise|Regular exercise improves cardiovascular health, strengthens muscles, reduces stress, and improves overall well-being.
+Mental Health|Mental health encompasses emotional, psychological, and social well-being affecting thoughts, feelings, and behavior.
+Meditation|Meditation is a practice of focused attention and mindfulness that reduces stress and improves mental clarity.
+Sleep|Sleep is a naturally recurring state of rest essential for brain function, memory consolidation, and physical recovery.
+Software Engineering|Software engineering is the systematic approach to designing, developing, testing, and maintaining software.
+Agile|Agile is a software development methodology focused on iterative progress and collaboration.
+Scrum|Scrum is an agile framework that organizes work into sprints and daily standups.
+DevOps|DevOps combines development and operations to improve collaboration and delivery speed.
+CI CD|Continuous Integration and Continuous Deployment automate testing and deployment pipelines.
+Testing|Software testing ensures that a program works correctly and meets requirements.
+Unit Testing|Unit testing tests individual components or functions of a program.
+Debugging|Debugging is the process of identifying and fixing errors in software.
+Version Control|Version control systems track changes in code and enable collaboration.
+Refactoring|Refactoring improves code structure without changing its functionality.
+OSI Model|The OSI model divides network communication into seven layers for better understanding.
+Routing|Routing determines the best path for data packets to travel across networks.
+Switching|Switching connects devices within the same network using MAC addresses.
+IP Address|An IP address uniquely identifies a device on a network.
+MAC Address|A MAC address is a hardware identifier assigned to network interfaces.
+Subnetting|Subnetting divides a network into smaller segments for efficiency.
+Packet|A packet is a small unit of data transmitted over a network.
+Latency|Latency is the delay before data transfer begins following an instruction.
+Throughput|Throughput is the rate at which data is successfully transmitted.
+Chatbot|A chatbot is a software application that simulates human conversation using AI.
+Recommendation System|Recommendation systems suggest products or content based on user behavior.
+Self Driving Car|Self-driving cars use AI, sensors, and cameras to navigate without human input.
+Speech Recognition|Speech recognition converts spoken language into text using AI.
+Face Recognition|Face recognition identifies or verifies a person using facial features.
+Automation|Automation uses technology to perform tasks without human intervention.
+Data Mining|Data mining extracts patterns and knowledge from large datasets.
+Predictive Analytics|Predictive analytics uses data to forecast future outcomes.
+Operating System Kernel|The kernel is the core component managing system resources.
+Process|A process is a program in execution with its own memory space.
+Thread|A thread is the smallest unit of execution within a process.
+Deadlock|Deadlock occurs when processes wait indefinitely for resources.
+Scheduling|Scheduling determines which process runs at a given time.
+Virtual Memory|Virtual memory allows programs to use more memory than physically available.
+Cache|Cache is a small high-speed memory used to store frequently accessed data.
+Paging|Paging divides memory into fixed-size pages for efficient management.
+Phishing|Phishing is a cyber attack that tricks users into revealing sensitive information.
+Ransomware|Ransomware encrypts data and demands payment for its release.
+Spyware|Spyware secretly monitors user activity without consent.
+Authentication|Authentication verifies the identity of a user or system.
+Authorization|Authorization determines access rights after authentication.
+Zero Day Attack|A zero-day attack exploits unknown vulnerabilities in software.
+Penetration Testing|Pen testing simulates attacks to find system vulnerabilities.
+Hashing|Hashing converts data into fixed-length values for security.
+Artificial General Intelligence|AGI refers to machines with human-level intelligence across tasks.
+Edge Computing|Edge computing processes data near the source instead of cloud servers.
+Quantum Supremacy|Quantum supremacy is when quantum computers outperform classical ones.
+Smart City|A smart city uses IoT and data to improve urban services.
+Wearable Technology|Wearables include smartwatches and fitness trackers.
+Digital Twin|A digital twin is a virtual replica of a physical system.
+Autonomous System|Autonomous systems operate independently without human control.
+Matrix|A matrix is a rectangular array of numbers used in linear algebra.
+Vector|A vector represents magnitude and direction in space.
+Derivative|A derivative measures the rate of change of a function.
+Integral|An integral calculates the area under a curve.
+Set Theory|Set theory studies collections of objects called sets.
+Logic Gate|Logic gates perform basic operations in digital circuits.
+Boolean Algebra|Boolean algebra deals with true/false values in logic.
+Exam|An exam evaluates a student's knowledge on a subject.
+Assignment|Assignments are tasks given to students for practice and evaluation.
+Presentation|A presentation is a way to communicate ideas visually and verbally.
+Research|Research is the process of investigating a topic deeply.
+Thesis|A thesis is a long academic document presenting research findings.
+Project|A project is a practical implementation of learned concepts.
+AI Ethics|AI ethics deals with the moral implications of artificial intelligence and responsible usage.
+Explainable AI|Explainable AI aims to make machine learning models understandable to humans.
+Reinforcement Learning|Reinforcement learning is a type of machine learning where agents learn by rewards and penalties.
+Transfer Learning|Transfer learning uses knowledge from one model to improve another model.
+GAN|Generative Adversarial Networks create realistic data like images and videos.
+Transformer|Transformer models are used in NLP tasks like translation and text generation.
+BERT|BERT is a transformer-based model developed by Google for natural language processing.
+GPT|GPT models generate human-like text using deep learning techniques.
+Prompt Engineering|Prompt engineering is designing inputs to get better outputs from AI systems.
+USA|The United States is a country in North America with Washington DC as its capital.
+UK|The United Kingdom is a European country with London as its capital.
+India|India is a South Asian country with New Delhi as its capital.
+China|China is the most populous country with Beijing as its capital.
+Japan|Japan is an island nation in East Asia with Tokyo as its capital.
+Germany|Germany is a European country with Berlin as its capital.
+France|France is a European country with Paris as its capital.
+Italy|Italy is a European country with Rome as its capital.
+Canada|Canada is a North American country with Ottawa as its capital.
+Australia|Australia is a country and continent with Canberra as its capital.
+Loop|A loop is used to repeat a block of code multiple times.
+Conditional|Conditional statements control program flow based on conditions.
+Function|A function is a reusable block of code that performs a task.
+Recursion Depth|Recursion depth refers to the number of times a function calls itself.
+Memory Leak|A memory leak occurs when allocated memory is not properly freed.
+Segmentation Fault|A segmentation fault occurs when accessing invalid memory.
+Threading|Threading allows multiple tasks to run concurrently.
+Concurrency|Concurrency allows multiple computations to happen at the same time.
+Parallelism|Parallelism executes multiple operations simultaneously.
+Google Maps|Google Maps is a web mapping platform that provides directions and navigation.
+YouTube|YouTube is a video-sharing platform owned by Google.
+Facebook|Facebook is a social media platform owned by Meta.
+Instagram|Instagram is a photo and video sharing social network.
+WhatsApp|WhatsApp is a messaging application owned by Meta.
+LinkedIn|LinkedIn is a professional networking platform.
+Twitter|Twitter is a microblogging platform now called X.
+TikTok|TikTok is a short video platform owned by ByteDance.
+Startup|A startup is a newly established business focused on growth and innovation.
+Entrepreneur|An entrepreneur is a person who starts and manages a business.
+Investment|Investment is allocating money with expectation of profit.
+Stock Market|The stock market allows buying and selling shares of companies.
+Cryptocurrency Market|Crypto markets involve trading digital currencies like Bitcoin.
+GDP|GDP measures the economic output of a country.
+Inflation|Inflation is the rate at which prices increase over time.
+Atom|An atom is the smallest unit of matter.
+Molecule|A molecule is a group of atoms bonded together.
+Energy|Energy is the ability to do work.
+Force|Force is an interaction that changes motion.
+Velocity|Velocity is speed with direction.
+Acceleration|Acceleration is the rate of change of velocity.
+Gravity|Gravity is the force that attracts objects toward each other.
+AI|Artificial intelligence enables machines to think, learn, and make decisions like humans.
+ML|Machine learning is a subset of AI that allows systems to learn from data automatically.
+Network|Computer networks connect devices using protocols like TCP and IP for communication.
+Database|Databases store and manage structured data efficiently for applications.
+Security|Cybersecurity protects systems, networks, and data from digital attacks.
+Cloud|Cloud computing provides on-demand access to computing resources over the internet.
+OOP|Object oriented programming uses classes, objects, inheritance, and polymorphism.
+Algorithm|An algorithm is a step-by-step procedure to solve a problem efficiently.
+Data|Data is raw information that can be processed into meaningful insights.
+Compiler|A compiler translates source code into machine code for execution.
+Einstein|Albert Einstein was a famous physicist who developed the theory of relativity and the formula E=mc2.
+Newton|Isaac Newton was a scientist and physicist who discovered the laws of universal gravitation and motion.
+Tesla|Nikola Tesla was a brilliant inventor and engineer who pioneered alternating current electricity.
+DaVinci|Leonardo da Vinci was a Renaissance artist and inventor who designed early concepts for tanks and flying machines.
+Curie|Marie Curie was a pioneering scientist who conducted research on radioactivity and won two Nobel Prizes.
+Jobs|Steve Jobs was a famous tech visionary and co-founder of Apple who transformed personal computing.
+Gates|Bill Gates is a famous tech entrepreneur and philanthropist who co-founded Microsoft.
+Mandela|Nelson Mandela was a world leader who fought for peace and equality in South Africa.
+BUET|Bangladesh University of Engineering and Technology (BUET) is the premier public engineering university in Dhaka.
+DU|The University of Dhaka (DU) is the oldest and most prestigious public research university in Bangladesh, known as the Oxford of the East.
+NSU|North South University (NSU) is the first private university in Bangladesh, located in Bashundhara, Dhaka.
+BRAC|BRAC University is a top-ranked private university in Bangladesh focusing on liberal arts and social responsibility.
+RU|The University of Rajshahi (RU) is one of the largest public universities in the country, located in the northern region.
+CU|The University of Chittagong (CU) is a public university famous for its natural beauty and shuttle train culture.
+KUET|Khulna University of Engineering & Technology (KUET) is a leading public engineering university located in the southwest.
+IUT|The Islamic University of Technology (IUT) is an international university in Gazipur, operated by the OIC.
+Apple|The apple is a sweet, crunchy fruit that can be red, green, or yellow.
+Banana|A banana is a long, yellow fruit that is very sweet and rich in potassium.
+Lemon|The lemon is a yellow citrus fruit known for its sour taste and vitamin C.
+Cherry|A cherry is a small, round red fruit that is often sweet but can be tart.
+Grapes|Grapes are small round fruits that grow in clusters and can be green or red.
+Mango|The mango is a tropical yellow fruit known as the king of fruits with a sweet flavor.
+Strawberry|A strawberry is a red heart-shaped fruit that is both sweet and slightly sour.
+Shakib|Shakib Al Hasan is a legendary Bangladeshi cricketer and the best all-rounder in the world.
+Mushfiq|Mushfiqur Rahim is a dependable Bangladeshi batsman and a former captain of the national team.
+Cricket|Cricket is the most popular sport in Bangladesh, and the national team is known as the Tigers.
+History|The history of Bangladesh is rich with the sacrifice of martyrs who fought for the mother tongue in 1952.
+Liberation|The Liberation War of 1971 led to the independence of Bangladesh from Pakistan.
+Internet|The internet is a global network of computers that allows people to share information instantly.
+Smartphone|A smartphone is a handheld personal computer with a mobile operating system and touch screen.
+Python|Python is a high-level programming language known for its simplicity and readability in data science.
+Javascript|Javascript is a versatile programming language primarily used for building interactive web pages.
+SpaceX|SpaceX is a private aerospace manufacturer founded by Elon Musk to reduce space transportation costs.
+NASA|NASA is an independent agency of the US federal government responsible for the civilian space program.
+Football|Football is a world-famous sport where two teams try to kick a ball into the opposing goal.
+Everest|Mount Everest is the highest mountain on Earth, located in the Himalayas between Nepal and China.
+Sundarbans|The Sundarbans is the largest mangrove forest in the world, located in the southwest of Bangladesh.
+CoxsBazar|Cox's Bazar is famous for having the longest natural sandy sea beach in the world.
+TajMahal|The Taj Mahal is an ivory-white marble mausoleum in India, built by Emperor Shah Jahan.
+Pyramid|The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza complex.
+Amazon|The Amazon rainforest is the world's largest tropical rainforest, known for its biodiversity.
+Mars|Mars is the fourth planet from the Sun and is often called the Red Planet due to its appearance.
+Moon|The Moon is Earth's only natural satellite and the fifth largest satellite in the Solar System.
+University|MIT is a world famous university
+Geography|Geographically Bangladesh is beautifull
+Psychology|Psychology of human is very difficult
+WW1|World War I was a global conflict that involved mass violence and trench warfare across Europe.
+WW2|World War II remains the deadliest conflict in history, characterized by intense military violence and atomic bombs.
+Crusades|The Crusades were a series of religious wars in the medieval period involving significant violence between empires.
+Genghis|Genghis Khan led the Mongol invasions, which were known for strategic military violence and vast conquests.
+CivilWar|The American Civil War was a violent internal struggle that ended slavery in the United States.
+Samurai|Samurai warriors in ancient Japan were experts in combat, often engaging in ritualized violence during clan wars.
+Gladiator|Roman gladiators were forced into public displays of violence and combat for entertainment in the Colosseum.
+Vietnam|The Vietnam War was a long, violent struggle between North and South Vietnam involving guerrilla tactics.
+Independence|The American War of Independence involved violent battles against British rule to establish a new nation.
+Viking|Viking raids across Europe were famous for their sudden and organized violence against coastal settlements.
+FrenchRev|The French Revolution was a period of far-reaching social and political upheaval in France.
+RussianRev|The Russian Revolution of 1917 dismantled the Tsarist autocracy and led to the rise of the Soviet Union.
+IndustrialRev|The Industrial Revolution was a transition to new manufacturing processes that changed the world forever.
+AmericanRev|The American Revolution was an ideological and political revolution that led to the independence of the USA.
+DigitalRev|The Digital Revolution is the shift from mechanical technology to digital electronics and the internet.
+GreenRev|The Green Revolution was a period of rapid increase in agricultural production through new technologies.
+Bolivar|Simon Bolivar led a successful revolution against Spanish rule in South America, liberating many nations.
+Gandhi|The Indian Independence Movement was a non-violent revolution against British colonial rule led by Gandhi.
+71Revolution|The 1971 Revolution and Liberation War of Bangladesh resulted in independence and the birth of a new nation.
+ScientificRev|The Scientific Revolution was a series of events that marked the emergence of modern science during the early modern period.
+Politics|Nepotism in politics occurs when leaders appoint family members to high-ranking government positions.
+Hollywood|The term nepo-baby refers to actors and filmmakers who succeeded due to nepotism in the film industry.
+Corporate|In the corporate world, nepotism can lower employee morale when unqualified relatives get promotions.
+Ethical|Many organizations have strict anti-nepotism policies to ensure fairness and prevent favoritism.
+Monarchy|Historical monarchies were built on a form of legalized nepotism where power was passed through bloodlines.
+Fairness|Meritocracy is the opposite of nepotism, where people are rewarded based on talent rather than family ties.
+Bollywood|The debate over nepotism in Bollywood highlights how star kids often get easier access to movie roles.
+Business|Family-owned businesses often struggle with nepotism when choosing the next successor for the company.
+Impact|Systemic nepotism can lead to corruption and hinder the growth of talented individuals without connections.
+Government|Nepotism laws in some countries prevent public officials from hiring relatives in the same department.
+Relativity|Einstein's famous formula E=mc2 relates energy and mass with the speed of light squared.
+Gravity|Newton's law of universal gravitation is given by the formula F=G*(m1*m2)/r2.
+Pythagoras|In a right-angled triangle, the Pythagorean theorem formula is a2+b2=c2.
+Force|Newton's second law of motion states the formula for force is mass times acceleration, F=ma.
+Circle|The area of a circle is calculated using the formula pi times radius squared, A=pi*r2.
+Thermodynamics|The entropy formula by Boltzmann is S=k*logW, a cornerstone of statistical mechanics.
+Chemistry|The ideal gas law formula PV=nRT relates pressure, volume, and temperature of a gas.
+Electricity|Ohm's law provides the formula V=IR, where V is voltage, I is current, and R is resistance.
+Quadratic|The quadratic formula is used to find the roots of a second-degree polynomial equation.
+Kinetics|The formula for kinetic energy is one-half mass times velocity squared, KE=0.5*m*v2.
+Thunderstorm|A thunderstorm is a violent weather condition with heavy rain, lightning, and thunder.
+Cyclone|A cyclone is a large scale air mass that rotates around a strong center of low atmospheric pressure.
+Humidity|Humidity is the concentration of water vapor present in the air, making it feel warm and sticky.
+Blizzard|A blizzard is a severe snowstorm characterized by strong sustained winds and low visibility.
+Tornado|A tornado is a violently rotating column of air that is in contact with both the surface of the earth and a cloud.
+Heatwave|A heatwave is a prolonged period of abnormally hot weather that can be dangerous to health.
+Monsoon|A monsoon is a seasonal change in the direction of the prevailing winds, often bringing heavy rain.
+Forecast|Weather forecast is the application of science and technology to predict the conditions of the atmosphere.
+Rainbow|A rainbow is a meteorological phenomenon caused by reflection, refraction, and dispersion of light in water droplets.
+Drought|A drought is an event of prolonged shortages in the water supply, whether atmospheric, surface water or ground water.
+Pointer|A pointer is a variable that stores the memory address of another variable.
+Recursion|Recursion is a programming technique where a function calls itself to solve a problem.
+Memory|Dynamic memory allocation in C++ uses 'new' and 'delete' operators.
+Frontend|Frontend development focuses on the user interface and experience of a website.
+Backend|Backend development handles the server-side logic and database interactions.
+Linux|Linux is an open-source operating system widely used for servers and development.
+Git|Git is a version control system used to track changes in source code during software development.
+ShaheedMinar|The Central Shaheed Minar is a national monument in Dhaka to commemorate the Language Movement.
+PadmaBridge|The Padma Bridge is the longest multipurpose bridge in Bangladesh, connecting the southwest.
+Sajek|Sajek Valley is an emerging tourist spot in the Chittagong Hill Tracts known for its natural beauty.
+AhsanManzil|Ahsan Manzil was the official residential palace and seat of the Nawab of Dhaka.
+BlackHole|A black hole is a region of spacetime where gravity is so strong that nothing can escape.
+DNA|Deoxyribonucleic acid (DNA) is the molecule that carries genetic instructions for life.
+Quantum|Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms.
+BigBang|The Big Bang theory is the prevailing cosmological model for the observable universe from the earliest known periods.
+Google|Google is a multinational technology company that specializes in Internet-related services.
+Microsoft|Microsoft is a global leader in software, services, devices, and solutions.
+TeslaCar|Tesla is an American electric vehicle and clean energy company led by Elon Musk.
+Netflix|Netflix is a streaming service that offers a wide variety of award-winning TV shows and movies.
+AreaCircle|Area of circle formula is A = PI * r^2.
+SumSeries|The sum of first n natural numbers formula is n*(n+1)/2.
+Probability|Probability of an event is (favorable outcomes) / (total outcomes).
+Raj| Raj Dip is a student of Santahar Government College lives in Santahar
