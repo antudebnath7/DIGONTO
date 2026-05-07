@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.depend
+*.layout
+*.cbp
+search_log.txt
+notes.txt
+results.txt
+doc1.txt
+doc2.txt
